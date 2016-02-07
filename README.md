@@ -1,2 +1,0 @@
-# holography
-o hi
