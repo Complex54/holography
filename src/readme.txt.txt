@@ -1,1 +1,1 @@
-Ici vous mettez les sources de voter projets :)
+Ici vous mettez les sources de votre projet :)
