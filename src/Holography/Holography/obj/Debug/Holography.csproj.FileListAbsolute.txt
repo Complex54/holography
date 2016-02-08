@@ -4,9 +4,15 @@ c:\users\thibault\documents\visual studio 2015\Projects\Holography\Holography\bi
 c:\users\thibault\documents\visual studio 2015\Projects\Holography\Holography\bin\Debug\Holography.pdb
 c:\users\thibault\documents\visual studio 2015\Projects\Holography\Holography\obj\Debug\Holography.exe
 c:\users\thibault\documents\visual studio 2015\Projects\Holography\Holography\obj\Debug\Holography.pdb
+<<<<<<< HEAD
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\bin\Debug\Holography.exe.config
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\obj\Debug\Holography.exe
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\obj\Debug\Holography.pdb
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\obj\Debug\Holography.csprojResolveAssemblyReference.cache
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\bin\Debug\Holography.exe
 C:\Users\Thibault\Documents\GitHub\holography\src\Holography\Holography\bin\Debug\Holography.pdb
+=======
+C:\Users\thibault\Documents\GitHub\holography\src\Holography\Holography\bin\Debug\Holography.exe.config
+C:\Users\thibault\Documents\GitHub\holography\src\Holography\Holography\obj\Debug\Holography.exe
+C:\Users\thibault\Documents\GitHub\holography\src\Holography\Holography\obj\Debug\Holography.pdb
+>>>>>>> 0db14797ca8ac55faebdaf470d42d448a42ac35d
