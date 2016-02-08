@@ -1,0 +1,11 @@
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\bin\Debug\yoda.jpg
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\bin\Debug\Effet.fx
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\bin\Debug\DiscoveringDirect3D11.exe
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\bin\Debug\DiscoveringDirect3D11.pdb
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\bin\Debug\SlimDX.dll
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.MainForm.resources
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.Properties.Resources.resources
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.exe
+C:\Users\Administrateur\Downloads\DiscoverD3D11\InitiationDirect3D 11\obj\x86\Debug\DiscoveringDirect3D11.pdb
