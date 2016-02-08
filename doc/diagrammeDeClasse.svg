@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="287.64129"
-     inkscape:cy="350.02248"
+     inkscape:zoom="1.979899"
+     inkscape:cx="260.87225"
+     inkscape:cy="408.10625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -120,7 +120,8 @@
            y="495.93362" /></flowRegion><flowPara
          id="flowPara3777">-holograme                               Hologram</flowPara><flowPara
          id="flowPara3822" /><flowPara
-         id="flowPara3779">-virtualScreen[4]                 VirtualScreen</flowPara></flowRoot>    <path
+         id="flowPara3779">-virtualScreen[4]                 virtualScreen</flowPara><flowPara
+         id="flowPara3204">-int                                                         size</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 80,592.36218 200,0"
        id="path3781"
@@ -203,7 +204,7 @@
          sodipodi:role="line"
          id="tspan3838"
          x="520"
-         y="562.36218">VirtualScreen</tspan></text>
+         y="562.36218">virtualScreen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
