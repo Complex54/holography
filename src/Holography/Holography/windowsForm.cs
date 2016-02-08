@@ -33,7 +33,7 @@ namespace Holography
         {
             if ( String.IsNullOrEmpty(SafeFileName.Text) && String.IsNullOrEmpty(textBoxTailleEcran.Text) )
             {
-                appeller avec textBoxTailleEcran.Text ofd.SafeFileName
+                //appeller avec textBoxTailleEcran.Text ofd.SafeFileName
             }
         }
     }

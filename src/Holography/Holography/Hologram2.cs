@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Holography
 {
-    public interface Hologram
+    class Hologram2
     {
-        
     }
 }

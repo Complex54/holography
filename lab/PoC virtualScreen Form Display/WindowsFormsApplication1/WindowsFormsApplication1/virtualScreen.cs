@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Holography
+namespace WindowsFormsApplication1
 {
     public class virtualScreen : IDisposable
     {
@@ -14,7 +14,8 @@ namespace Holography
 
         public virtualScreen(string url)
         {
-            image = pathToImage(url);
+            image = pathToImage("C:\\Users\\Thibault\\Pictures\bite2.PNG");
+
         }
 
         public Image getImage()
