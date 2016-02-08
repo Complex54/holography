@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
+   width="551"
+   height="551"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="346.82695"
-     inkscape:cy="629.31582"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="287.64129"
+     inkscape:cy="350.02248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,13 +36,23 @@
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid2985" />
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-79.5px"
+       originy="-109.5px" />
     <sodipodi:guide
        orientation="1,0"
-       position="-50,490"
+       position="-129.5,380.5"
        id="guide3854" />
   </sodipodi:namedview>
   <metadata
@@ -53,14 +63,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-79.5,-391.86218)">
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2987"
@@ -72,14 +83,14 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3757"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:URW Gothic L;font-style:normal;font-weight:380;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:URW Gothic L Book;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"><flowRegion
          id="flowRegion3759"><rect
            id="rect3761"
            width="95"
            height="29.285715"
            x="223.57143"
            y="475.21933" /></flowRegion><flowPara
-         id="flowPara3763"></flowPara></flowRoot>    <text
+         id="flowPara3763" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
        x="160"
@@ -125,7 +136,7 @@
          sodipodi:role="line"
          id="tspan3804"
          x="85"
-         y="602.36218">+setVirtualScreen(int id,  Texture texture)</tspan><tspan
+         y="602.36218">+setVirtualScreen(int id,  TVirtualScreen virtualScreen)</tspan><tspan
          sodipodi:role="line"
          x="85"
          y="614.86218"
@@ -133,7 +144,11 @@
          sodipodi:role="line"
          x="85"
          y="627.36218"
-         id="tspan3816">+setRotation(float radian)</tspan></text>
+         id="tspan3816">+setRotation(float radian)</tspan><tspan
+         sodipodi:role="line"
+         x="85"
+         y="639.86218"
+         id="tspan3194">+setMode(int mode)</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 280,522.36218 10,-5 10,5 -10,5 z"
@@ -145,7 +160,7 @@
        id="path3820"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 280,547.36218 10,-5 10,5 -10,5 z"
        id="path3824"
        inkscape:connector-curvature="0" />
@@ -309,7 +324,7 @@
          x="180"
          y="931.64789">run()</tspan></text>
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 170,882.36218 -10,-5 -10,5 10,5 z"
        id="path3902"
        inkscape:connector-curvature="0" />
@@ -329,7 +344,7 @@
        id="path3908"
        inkscape:connector-curvature="0" />
     <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3910"
        width="160"
        height="160"
@@ -372,28 +387,15 @@
        d="m 460,897.36218 -80,0 -10,-5 -10,5 10,5 10,-5"
        id="path3924"
        inkscape:connector-curvature="0" />
-    <rect
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3926"
-       width="130"
-       height="120"
-       x="230"
-       y="342.36218" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 230,372.36218 130,0"
-       id="path3928"
-       inkscape:connector-curvature="0" />
-    <text
+    <flowRoot
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
-       x="275"
-       y="362.36218"
-       id="text3930"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3932"
-         x="275"
-         y="362.36218">Texture</tspan></text>
-  </g>
+       id="flowRoot3196"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"><flowRegion
+         id="flowRegion3198"><rect
+           id="rect3200"
+           width="216.42857"
+           height="156.42857"
+           x="195"
+           y="310.21933" /></flowRegion><flowPara
+         id="flowPara3202"></flowPara></flowRoot>  </g>
 </svg>
