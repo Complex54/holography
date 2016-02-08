@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Holography
 {
-    class Hologram
+    public class Hologram
     {
+        public Hologram(string imageComponent)
+        {
+            
+        }
     }
 }

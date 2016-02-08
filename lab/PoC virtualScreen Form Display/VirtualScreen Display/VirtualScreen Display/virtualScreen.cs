@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Holography
+namespace VirtualScreen_Display
 {
     public class virtualScreen : IDisposable
     {
@@ -20,3 +20,5 @@ namespace Holography
         }
     }
 }
+
+
