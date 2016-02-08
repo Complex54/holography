@@ -11,7 +11,7 @@ namespace Holography
         
 
 
-        public void SetVirtualScreen(int id, Texture texture)
+        public void SetVirtualScreen(int id, virtualScreen virtualscreen)
         {
 
         }
